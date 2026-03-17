@@ -122,7 +122,8 @@ Usage: /usr/local/nagios/libexec/nagios_send_service_mail.pl [-v] [-V] [-h] [-t]
        [-r <to_recipients> or -g <to_group>] [-c <cc_recipients>] [-b <bcc_recipients>]
        [-f <text|html|multi|graph>] [-u] [-l <en|jp|fr|de|es|(or other languages if added)>]
 
-
 Now check your email you will get email as like below:
+
+
 <img width="315" height="346" alt="nagiosgraph-alert" src="https://github.com/user-attachments/assets/df11f20c-c1f2-46c9-821c-5d3f802634e3" />
 
